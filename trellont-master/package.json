@@ -50,5 +50,8 @@
     "style-loader": "^3.3.1",
     "tailwindcss": "^3.4.4",
     "typescript": "~5.4.2"
+  },
+  "volta": {
+    "node": "20.16.0"
   }
 }

@@ -9,7 +9,7 @@
     "test": "ng test",
     "serve:ssr:login-and-register": "node dist/login-and-register/server/server.mjs",
     "build:single-spa:login-and-register": "ng build login-and-register --configuration production",
-    "serve": "ng s --project login-and-register --disable-host-check --port 4201 --live-reload false"
+    "serve": "ng s --project login-and-register --disable-host-check --port 4202 --live-reload false"
   },
   "private": true,
   "dependencies": {

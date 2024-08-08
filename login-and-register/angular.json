@@ -36,7 +36,7 @@
               "libraryName": "login-and-register",
               "libraryTarget": "umd"
             },
-            "deployUrl": "http://localhost:4201/"
+            "deployUrl": "http://localhost:4202/"
           },
           "configurations": {
             "production": {
